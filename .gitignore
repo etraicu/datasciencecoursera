@@ -1,6 +1,0 @@
-# Mac stuff
-*.DS_Store
-
-# Ignore project files
-app
-dist
