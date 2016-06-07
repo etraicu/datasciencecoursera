@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Deco IDE](https://camo.githubusercontent.com/310b468e29288459ca36b1a54b3b311cf9e31bd4/68747470733a2f2f73332d75732d776573742d322e616d617a6f6e6177732e636f6d2f696d686f73742f4465636f4944454c6f676f25343032782e706e67)
 
 ### The all-in-one solution for building React Native applications.
@@ -139,3 +140,7 @@ We :heart: feedback!
 ## Copyright
 
 Copyright 2015 © Deco Software Inc - All rights reserved
+=======
+# datasciencecoursera
+Repo required for course project of Course 1 Data Scientist Toolbox
+>>>>>>> 38aa1024e4867ee660ddd309e810a24a667beefd
